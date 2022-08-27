@@ -11,6 +11,10 @@ I can develop full-stack web-applications using the following technologies
 - 1. Front-end:- HTML, CSS, JavaScript, React.js
 - 2. Back-end:- Node.js, Express.js
 - 3. Database:- both relational and non-relational databases (MySQL, SQL, MongoDB)
+
+## Currently
+Currently beside building full-stack web-apps I'm also learning and solving different Data Structure and Algorithm problems using Java
+
 <!---
 dagim-cherinet/dagim-cherinet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
