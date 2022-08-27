@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dagim-cherinet
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning and doing front-end, back-end and android development
+- 👀 I’m full-stack software developer
+- 🌱 I’m currently doing front-end, back-end and android projects and developing my skillsets
 - 💞️ I’m looking to collaborate on front-end and android development related projects
 - 📫 How to reach me email: dachbi32@gmail.com, telegram: https://t.me/dachbi twitter : https://twitter.com/dachbi32
 
